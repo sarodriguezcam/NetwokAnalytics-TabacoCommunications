@@ -1,4 +1,4 @@
-# NetwokAnalytics-TabacoComunications
+# NetwokAnalytics-TabacoCommunications
 
 This is the Gephi network of the communications of the Tabaco Control Agencies of the US.
 
